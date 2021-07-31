@@ -1,4 +1,4 @@
-if SHIELD_REVIUNG41
+if SHIELD_YASUI
 
 config ZMK_KEYBOARD_NAME
     default "Yasui"
